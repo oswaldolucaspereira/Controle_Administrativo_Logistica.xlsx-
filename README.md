@@ -20,8 +20,7 @@ O objetivo foi organizar pedidos, transportadoras e custos de frete, além de cr
 
 - Tabelas estruturadas  
 - Tabelas dinâmicas  
-- Gráficos dinâmicos  
-- Segmentação de dados  
+- Gráficos dinâmicos   
 - Organização de base logística  
 
 ---
